@@ -1,0 +1,29 @@
+2022-06-19 02:21:07 INFO  FootballTest:22 - Start to Check La liga Champions
+  2022-06-19 02:21:07 INFO  FootballPage:30 - Wait until  laLiga Button Appears
+  2022-06-19 02:21:07 INFO  FootballPage:49 - Click on La Liga Button
+  2022-06-19 02:21:08 INFO  FootballPage:52 - check that Point columns is sorted Desc
+  2022-06-19 02:21:08 INFO  FootballPage:30 - Wait until  Points desc sort icon Appears
+  2022-06-19 02:21:09 INFO  FootballPage:30 - Wait until  First Team Name Appears
+  2022-06-19 02:21:09 INFO  FootballPage:57 - The team with the highest points is : Real Madrid
+  2022-06-19 02:21:09 INFO  FootballPage:61 - verify that The team with the highest points is Real Madrid
+  2022-06-19 02:21:09 INFO  FootballPage:30 - Wait until  Goals for button Appears
+  2022-06-19 02:21:09 INFO  FootballPage:66 - Click on Goals for button
+  2022-06-19 02:21:09 INFO  FootballPage:30 - Wait until  For Goals desc sort icon Appears
+  2022-06-19 02:21:09 INFO  FootballPage:72 - The team with the highest Goals is : Real Madrid
+  2022-06-19 02:21:09 INFO  FootballPage:76 - verify that The team with the highest Goals is Real Madrid 
+  2022-06-19 02:21:09 INFO  FootballPage:30 - Wait until  Top 20 Scorers Appears
+  2022-06-19 02:21:09 INFO  FootballPage:81 - Click on top20ScorersButton  
+  2022-06-19 02:21:09 INFO  FootballPage:30 - Wait until  Club column menu icon Appears
+  2022-06-19 02:21:10 INFO  FootballPage:30 - Wait until  Club column menu icon Appears
+  2022-06-19 02:21:10 INFO  FootballPage:30 - Wait until  Filter icon of Club coulmn Appears
+  2022-06-19 02:21:10 INFO  FootballPage:95 - Click on filterIconOfClubColumn  
+  2022-06-19 02:21:10 INFO  FootballPage:30 - Wait until  Filter txt Filed Appears
+  2022-06-19 02:21:10 INFO  FootballPage:101 - Type Real Madrid in filter search
+  2022-06-19 02:21:10 INFO  FootballPage:30 - Wait until  Filter icon of Club coulmn Appears
+  2022-06-19 02:21:10 INFO  FootballPage:107 - Click on filterIconOfClubColumn again to close the filter 
+  2022-06-19 02:21:10 INFO  FootballPage:116 - log the players names in the file 
+  2022-06-19 02:21:10 INFO  FootballPage:120 - Karim Benzema
+  2022-06-19 02:21:10 INFO  FootballPage:120 - Vinícius José Paixão de Oliveira Júnior
+  2022-06-19 02:21:10 INFO  FootballPage:120 - Marco Asensio Willemsen
+  2022-06-19 02:21:10 INFO  FootballPage:125 - close file writer after finish  
+  
